@@ -1,3 +1,6 @@
+# Day 2: Bathroom Security
+# Part 1
+
 def get_security_digit(code_line, i, j):
     print line.strip()
     for char in code_line:

@@ -1,3 +1,6 @@
+# Day 3: Squares With Three Sides
+# Part 1
+
 def chk_triangle_possibility(triangle_data):
     for i in range(3):
         if triangle_data[i] >= sum(triangle_data) - triangle_data[i]:

@@ -1,3 +1,7 @@
+# Day 3: Squares With Three Sides
+# Part 2
+
+
 def triangles_set(triangle_data_3):
     valid_triangle = []
     for i in range(3):
